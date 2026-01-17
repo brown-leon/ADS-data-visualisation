@@ -8,6 +8,9 @@ Individual project folders contain screenshots and brief documentation describin
 
 ## Dashboards
 
+- **Executive Sales and Operations Dashboard**
+  Visual overview of a two page dashboard for a medium sized cafe. 
+
 - **Operations and Cost Dashboard**  
   Visual overview of operational costs, fuel usage, and profit-related metrics.
 
