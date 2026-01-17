@@ -8,8 +8,8 @@ Individual project folders contain screenshots and brief documentation describin
 
 ## Dashboards
 
-- **Executive Sales and Operations Dashboard**
-Executive-level dashboard focused on tracking overall sales performance and identifying the primary operational drivers behind revenue trends, with an emphasis on clarity, hierarchy, and decision-focused visual design.
+- **Executive Sales and Operations Dashboard**  
+  Executive-level dashboard focused on tracking overall sales performance and identifying the primary operational drivers behind revenue trends, with an emphasis on clarity, hierarchy, and decision-focused visual design.
 
 - **Operations and Cost Dashboard**  
   Visual overview of operational costs, fuel usage, and profit-related metrics.
