@@ -19,3 +19,8 @@
 
 This dashboard was developed as part of a Data Visualization course project.  
 Detailed design rationale and methodology are documented separately.
+
+## Documentation
+
+📄 Full design rationale and methodology:  
+[Executive Sales & Operations Dashboard – Design Report](./Executive_Sales_Operations_Dashboard_Design_Report.pdf)
