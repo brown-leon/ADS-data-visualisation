@@ -1,0 +1,3 @@
+# Applied Data Science - Visualisation Tools 
+
+This repository showcases student-level data visualisation work, focusing on design, layout, and visual communication, created using Power BI (and later Python/QGIS) as part of Applied Data Science coursework.
