@@ -16,3 +16,8 @@ Individual project folders contain screenshots and brief documentation describin
 
 - **Product Size and Distribution Dashboard**  
   Descriptive dashboard exploring product size characteristics and distribution patterns.
+
+## Documentation
+
+📄 Full design rationale and methodology:  
+[Executive Sales & Operations Dashboard – Design Report](./Executive_Sales_Operations_Dashboard_Design_Report)
